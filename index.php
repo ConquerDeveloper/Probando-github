@@ -6,7 +6,7 @@
     echo substr($text,0,$pos).substr($text, $pos);
 
     */
-
+    echo "Oshe prrrro k coza maz zaVroza ggggggg :3";
     class Conexion{
         public static function con(){
             define("host","localhost");
